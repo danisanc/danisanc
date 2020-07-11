@@ -21,7 +21,7 @@
 </p>
 
 
-# Hi there 👋 I'am Daniel!
+# Hi there 👋 I'm Daniel!
 
 Desenvolvedor a cerca de 3 anos, já passei pelas linguagens Java, C# e PHP. Atualmente estou trabalhando no universo Javascript utilizando React e Nodejs, e estou focando os estudos em NestJs, NextJs e em empreendorismo. Tenho interesse em tecnologias como Rust, WebAssembly, IOT e desenvolvimento mobile. Gosto de jogar, estudar, cozinhar e sonhar um pouco. 😄
 
