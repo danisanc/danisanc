@@ -23,7 +23,7 @@
 
 # Hi there 👋 I'm Daniel!
 
-Desenvolvedor a cerca de 3 anos, já passei pelas linguagens Java, C# e PHP. Atualmente estou trabalhando no universo Javascript utilizando React e Nodejs, e estou focando os estudos em NestJs, NextJs e em empreendorismo. Tenho interesse em tecnologias como Rust, WebAssembly, IOT e desenvolvimento mobile. Gosto de jogar, estudar, cozinhar e sonhar um pouco. 😄
+Desenvolvedor WEB a quase 4 anos trabalhando principalmente com as ferramentas React e Nodejs. Gosto sempre de estudar coisas novas e no momento estou focado em programação mobile e empreendedorismo. Em um futuro não tão distante quero me aprofundar mais em Marketing para tirar minhas ideias do papel e lançar minha startup. Gosto de jogar, estudar, cozinhar e sonhar um pouco
 
 ## Experiência profissional 🔭
 
