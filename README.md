@@ -1,40 +1,29 @@
 <p align="center">
-  <img src="https://bigheads.io/svg?accessory=roundGlasses&body=chest&circleColor=blue&clothing=shirt&clothingColor=black&eyebrows=raised&eyes=normal&facialHair=none2&graphic=none&hair=short&hairColor=brown&hat=none&hatColor=green&lipColor=red&mask=true&mouth=grin&skinTone=light" alt="Big Head" width="200"/>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/danisanc/" target="_BLANK">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin" alt="Linkedin"/>
   </a>
 
-  <a href="https://telegram.me/t_danisanc" target="_BLANK">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram" alt="Telegram"/>
+  <a href="https://medium.com/@danisanc" target="_BLANK">
+    <img src="https://img.shields.io/badge/Medium-000000?logo=medium" alt="Medium"/>
   </a>
-
-  <a href="https://twitter.com/t_danisanc" target="_BLANK">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter" alt="Twitter"/>
-  </a>
-
-  <a href="https://steamcommunity.com/id/danisanc/" target="_BLANK">
-    <img src="https://img.shields.io/badge/Steam-000000?logo=steam" alt="Steam"/>
+  
+  <a href="https://sanc.dev/" target="_BLANK">
+    <img src="https://img.shields.io/badge/Sanc%20Dev-FFFFFF" alt="Sanc Dev"/>
   </a>
 </p>
 
 
 # Hi there 👋 I'm Daniel!
 
-Desenvolvedor WEB a quase 4 anos trabalhando principalmente com as ferramentas React e Nodejs. Gosto sempre de estudar coisas novas e no momento estou focado em programação mobile e empreendedorismo. Em um futuro não tão distante quero me aprofundar mais em Marketing para tirar minhas ideias do papel e lançar minha startup. Gosto de jogar, estudar, cozinhar e sonhar um pouco
+Atualmente trabalhando com React e Nodejs, focado em aprimorar meus conhecimentos no ecossistema dessas tecnologias. Em um futuro não tão distante quero me aprofundar mais em Marketing e empreendedorismo!
 
 ## Experiência profissional 🔭
 
-- **Kroton** - Analista júnior de sistemas  
+- **Kroton** - Desenvolvedor I
   mai. de 2020 – o momento  
 
 - **2SOW Inovação e Tecnologia** - Programador Front-end  
   jan. de 2020 – mai. de 2020  
-
-- **Sunset Solutions Ltda.** - Programador Jr  
-  nov. de 2017 – mai. de 2019
 
 ## Formação acadêmica 🌱
 
