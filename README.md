@@ -1,4 +1,8 @@
-<p align="center">
+# Hi there 👋 I'm Daniel!
+
+Atualmente trabalhando com React e Nodejs, focado em aprimorar meus conhecimentos no ecossistema dessas tecnologias. Em um futuro não tão distante quero me aprofundar mais em Marketing e empreendedorismo!
+
+<p>
   <a href="https://www.linkedin.com/in/danisanc/" target="_BLANK">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin" alt="Linkedin"/>
   </a>
@@ -8,18 +12,13 @@
   </a>
   
   <a href="https://sanc.dev/" target="_BLANK">
-    <img src="https://img.shields.io/badge/Sanc%20Dev-FFFFFF" alt="Sanc Dev"/>
+    <img src="https://img.shields.io/badge/Sanc.Dev-0080ff" alt="Sanc.Dev"/>
   </a>
 </p>
 
+## Experiência profissional 💼
 
-# Hi there 👋 I'm Daniel!
-
-Atualmente trabalhando com React e Nodejs, focado em aprimorar meus conhecimentos no ecossistema dessas tecnologias. Em um futuro não tão distante quero me aprofundar mais em Marketing e empreendedorismo!
-
-## Experiência profissional 🔭
-
-- **Kroton** - Desenvolvedor I
+- **Kroton** - Desenvolvedor I  
   mai. de 2020 – o momento  
 
 - **2SOW Inovação e Tecnologia** - Programador Front-end  
@@ -27,7 +26,7 @@ Atualmente trabalhando com React e Nodejs, focado em aprimorar meus conhecimento
 
 ## Formação acadêmica 🌱
 
-- **Estácio** - Análise e Desenvolvimento de Sistemas  
+- **Universidade Estácio de Sá** - Análise e Desenvolvimento de Sistemas  
   2018 – 2021  
 
 - **ETEC Polivalente de Americana** - Técnico em informatica  
