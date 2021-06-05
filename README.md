@@ -1,38 +1,22 @@
-# Hi there 👋 I'm Daniel!
+## Oopa, prazer 👋
 
-Atualmente trabalhando com React e Nodejs, focado em aprimorar meus conhecimentos no ecossistema dessas tecnologias. Em um futuro não tão distante quero me aprofundar mais em Marketing e empreendedorismo!
+Desenvolvedor full-stack pleno atualmente em Campinas - SP
 
-<p>
-  <a href="https://www.linkedin.com/in/danisanc/" target="_BLANK">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin" alt="Linkedin"/>
-  </a>
+#### Sobre mim
 
-  <a href="https://medium.com/@danisanc" target="_BLANK">
-    <img src="https://img.shields.io/badge/Medium-000000?logo=medium" alt="Medium"/>
-  </a>
-  
-  <a href="https://sanc.dev/" target="_BLANK">
-    <img src="https://img.shields.io/badge/Sanc.Dev-0080ff" alt="Sanc.Dev"/>
-  </a>
-</p>
+- 🏢 Trabalhando atualmente na [**GeekHunter**](https://www.geekhunter.com.br)
+- ⚙️ Uso diariamente: `.js`, `.html`, `.css`
+- 📚 Estou estudando: `.rb`, `.rs`
+- 🌱 Entrando no open-source
+- 👀 Interessado no mundo de sturtups
 
-## Experiência profissional 💼
+#### Fatos curiosos
 
-- **Kroton** - Desenvolvedor I  
-  mai. de 2020 – o momento  
+- 💘 Entusiasta tech
+- 🎮 Jogador caro
+- ☕ <- já sabe né
 
-- **2SOW Inovação e Tecnologia** - Programador Front-end  
-  jan. de 2020 – mai. de 2020  
+#### Onde me encontrar ?
 
-## Formação acadêmica 🌱
-
-- **Universidade Estácio de Sá** - Análise e Desenvolvimento de Sistemas  
-  2018 – 2021  
-
-- **ETEC Polivalente de Americana** - Técnico em informatica  
-  2015 – 2016
-
-## Certificados ⚡
-
-- **Codenation** - AceleraDev React  
-  Emitido em abr. de 2020 
+- [Blog (wip)](https://sanc.dev/)
+- [Linkedin](https://www.linkedin.com/in/danisanc/)
