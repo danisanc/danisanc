@@ -14,7 +14,7 @@ Desenvolvedor full-stack pleno atualmente em Campinas - SP
 
 - 💘 Entusiasta tech
 - 🎮 Jogador caro
-- ☕ <- já sabe né
+- ☕ <- Já sabe né
 
 #### Onde me encontrar ?
 
