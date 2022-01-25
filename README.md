@@ -1,15 +1,15 @@
 ## Oopa, prazer 👋
 
-Desenvolvedor full-stack pleno em Campinas - SP
+Desenvolvedor full-stack em Campinas - SP
 
 #### Sobre mim
 
 - 🏢 Trabalho na [**GeekHunter**](https://www.geekhunter.com.br)
-- ⚙️ Uso diariamente: `.js`, `.jsx`
-- 📚 Estou estudando: `.rb`, `.dart`
-- 🌱 Desenvolvendo [My-ghub](https://github.com/danisanc/my-ghub), [Nodmin](https://github.com/danisanc/nodmin) e [Simplify](https://github.com/danisanc/simplify)
+- ⚙️ Uso diariamente: `.ts` e `.rb`
+- 📚 Estou estudando: `.dart` e `.rs`
+- 🌱 Desenvolvendo [Nodmin](https://github.com/danisanc/nodmin), SancDev (Meu site pessoal) e projetos utilizando as linguagens que estou estudando
 
 #### Onde me encontrar ?
 
-- [Blog (wip)](https://sanc.dev/)
 - [Linkedin](https://www.linkedin.com/in/danisanc/)
+- [Email](mailto:danielsc.let@gmail.com)
