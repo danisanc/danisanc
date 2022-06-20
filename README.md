@@ -1,4 +1,4 @@
-<a href="https://github.com/danisanc/danisanc/blob/main/english-README.md">
+<a href="https://github.com/danisanc/danisanc/blob/master/english-README.md">
   <img src="https://user-images.githubusercontent.com/38120653/174614711-139456b1-9070-4b89-870e-c1305ab49d22.png" alt="pt-br" width="16"/> English version
 </a>
 
