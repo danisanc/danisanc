@@ -4,7 +4,7 @@
 
 ## 👋 Olá
 
-Me chamo Daniel, tenho 22 anos e sou desenvolvedor Front-end com aproximadamente 5 anos de experiência.
+Me chamo Daniel, tenho 23 anos e sou desenvolvedor Front-end com aproximadamente 5 anos de experiência.
 
 Atualmente estou focando os estudos em aprimorar meus conhecimentos em `react/nextjs`, `nodejs` e começar a usar `elixir`. 
 
