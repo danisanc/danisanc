@@ -4,7 +4,7 @@
 
 ## 👋 Hi there
 
-My name is Daniel, I'm 23y old and I'm a Front-end developer with 5 years of experience.
+My name is Daniel, I'm 23y old and I'm a Front-end developer with 4 years of experience.
 I am currently focusing my studies on improving my knowledge of `react/nextjs`, `nodejs` and starting to use `elixir`.
 And, I am interested in the topics `Open-source` and `Entrepreneurship`.
 
