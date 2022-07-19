@@ -4,21 +4,13 @@
 
 ## 👋 Olá
 
-Me chamo Daniel, tenho 23 anos e sou desenvolvedor Front-end com aproximadamente 5 anos de experiência.
-
+Me chamo Daniel, tenho 23 anos e sou desenvolvedor Front-end com aproximadamente 4 anos de experiência.
 Atualmente estou focando os estudos em aprimorar meus conhecimentos em `react/nextjs`, `nodejs` e começar a usar `elixir`. 
-
-Além disso, tenho interesse nos tópicos: `Open-source`, `Empreendedorismo`, `Cripto` e `NFT's`.
+Além disso, tenho interesse nos tópicos `Open-source` e `Empreendedorismo`.
 
 ### Sobre mim
 
-- 👷🏻 Trabalho na [GeekHunter](https://www.geekhunter.com.br/)
 - 🏡 Moro em Campinas - SP 
+- 👷🏻 Trabalho na [GeekHunter](https://www.geekhunter.com.br/)
 - 📚 Estudando inglês
 - ☕ Café só com leite
-
-### Onde me encontrar ?
-
-- [Linkedin](https://www.linkedin.com/in/danisanc/)
-- [Meu site pessoal](https://www.dansantos.dev)
-- [Me mande um e-mail](mailto:danielsc.let@gmail.com) 
