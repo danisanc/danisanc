@@ -5,20 +5,12 @@
 ## 👋 Hi there
 
 My name is Daniel, I'm 23y old and I'm a Front-end developer with 5 years of experience.
-
 I am currently focusing my studies on improving my knowledge of `react/nextjs`, `nodejs` and starting to use `elixir`.
-
-And, I am interested in the topics: `Open-source`, `Entrepreneurship`, `Crypto` and `NFT's`.
+And, I am interested in the topics `Open-source` and `Entrepreneurship`.
 
 #### About me
 
-- 👷🏻 Work in [GeekHunter](https://www.geekhunter.com.br/)
 - 🏡 Living in Campinas, SP - Brazil
+- 👷🏻 Work in [GeekHunter](https://www.geekhunter.com.br/)
 - 📚 Studying english
 - ☕ Coffe only with milk
-
-### How to find me?
-
-- [Linkedin](https://www.linkedin.com/in/danisanc/)
-- [My personal site](https://www.dansantos.dev)
-- [Send me a e-mail](mailto:danielsc.let@gmail.com)
